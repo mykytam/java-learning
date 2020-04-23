@@ -1,6 +1,5 @@
 HELP.md
 /target/
-*/target/**
 .mvn/
 mvnw
 mvnw.cmd
@@ -19,6 +18,7 @@ mvnw.cmd
 *.iws
 *.iml
 *.ipr
+/target/
 
 ### NetBeans ###
 /nbproject/private/
