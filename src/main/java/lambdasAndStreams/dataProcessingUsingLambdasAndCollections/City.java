@@ -1,4 +1,4 @@
-package lambda.dataProcessingUsingLambdasAndCollections;
+package lambdasAndStreams.dataProcessingUsingLambdasAndCollections;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
