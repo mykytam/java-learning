@@ -1,4 +1,4 @@
-package lambdasAndStreams;
+package lambdasAndStreams.dataProcessingUsingLambdasAndCollections;
 
 import java.util.ArrayList;
 import java.util.Comparator;
